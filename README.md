@@ -1,3 +1,3 @@
-                                                                             ## Hi I am Luxmi
+## Hi I am Luxmi
 
-                                                                        I am a full stack developer
+I am a full stack developer
