@@ -1,6 +1,6 @@
 <h1 align="center"> Hi I am Luxmi </h1>
 
-<h2 align="center"> I am a full stack developer</h2>
+<h2 align="center"> I am a full stack developer, currently trying to find jobs in the related domain</h2>
 
 <p align="center">My areas of interest include  Full stack development, Blockchain, AI, and Cloud Computing.  </p>
 
