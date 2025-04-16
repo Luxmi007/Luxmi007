@@ -1,6 +1,6 @@
 <h1 align="center"> Hi I am Luxmi </h1>
 
-<h2 align="center"> I am working as a Backend developer at <a href='https://www.app-knit.com/home' target='_blank' rel='noopener noreferrer'>App-knit</a>.</h2>
+<h2 align="center"> I am working as a Backend developer at <a href='https://www.app-knit.com/home' target='_blank' rel='noopener noreferrer'>App-Knit</a></h2>
 
 <p align="center">My areas of interest include  Full stack development, Blockchain, AI, and Cloud Computing.  </p>
 
