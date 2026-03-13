@@ -21,5 +21,4 @@
   <img src="https://img.shields.io/badge/node%20-%FFFFFFF.svg?&style=for-the-badge&logo=node.js&logoColor=white&color=darkgreen"/>
   <img src="https://img.shields.io/badge/docker%20-%23323330.svg?&style=for-the-badge&logo=docker&logoColor=blue"/> 
   <img src="https://img.shields.io/badge/typescript%20-%FFFFFFF.svg?&style=for-the-badge&logo=typescript&logoColor=white&color=blue"/>
-  <img src="https://img.shields.io/badge/aws%20-%FFFFFFF.svg?&style=for-the-badge&logo=aws&logoColor=red&color=white"/>
 <p align=center> 
